@@ -1,6 +1,5 @@
 AIML
-CSE
-AMITY
+
 AUB
 
 AIML2
